@@ -7,6 +7,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-mehra21/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -16,4 +17,8 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-mehra21/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 <!---LeetCode Topics End-->
