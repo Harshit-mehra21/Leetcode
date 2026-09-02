@@ -8,6 +8,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Harshit-mehra21/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1002-find-common-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-mehra21/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -16,6 +17,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Harshit-mehra21/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1002-find-common-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -33,4 +35,25 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Harshit-mehra21/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
