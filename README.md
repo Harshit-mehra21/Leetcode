@@ -10,6 +10,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-mehra21/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-mehra21/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0454-4sum-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-mehra21/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1002-find-common-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-mehra21/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -21,6 +22,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-mehra21/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-mehra21/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0454-4sum-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-mehra21/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1002-find-common-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 ## Simulation
