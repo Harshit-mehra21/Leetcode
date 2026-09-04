@@ -12,6 +12,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-mehra21/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1002-find-common-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-mehra21/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -72,4 +73,8 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-mehra21/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
