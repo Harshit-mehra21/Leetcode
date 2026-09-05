@@ -28,6 +28,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-mehra21/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Harshit-mehra21/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1002-find-common-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/Harshit-mehra21/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1002-find-common-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -82,9 +84,14 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0567-permutation-in-string](https://github.com/Harshit-mehra21/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/Harshit-mehra21/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
