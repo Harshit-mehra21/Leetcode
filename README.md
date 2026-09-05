@@ -21,6 +21,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-mehra21/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-mehra21/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -38,6 +39,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1002-find-common-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -76,5 +78,6 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
