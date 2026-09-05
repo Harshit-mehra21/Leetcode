@@ -8,6 +8,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-mehra21/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-mehra21/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0454-4sum-ii/) | Medium |
@@ -73,11 +74,17 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-mehra21/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
