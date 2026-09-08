@@ -8,6 +8,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-mehra21/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-mehra21/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-mehra21/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -97,6 +98,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-mehra21/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
