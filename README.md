@@ -104,6 +104,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Harshit-mehra21/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Harshit-mehra21/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
