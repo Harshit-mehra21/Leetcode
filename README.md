@@ -125,6 +125,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Harshit-mehra21/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshit-mehra21/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Monotonic Stack
@@ -136,4 +137,8 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshit-mehra21/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Harshit-mehra21/Leetcode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
