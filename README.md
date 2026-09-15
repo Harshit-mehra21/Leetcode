@@ -47,12 +47,14 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Harshit-mehra21/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Harshit-mehra21/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-mehra21/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0402-remove-k-digits](https://github.com/Harshit-mehra21/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-mehra21/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Harshit-mehra21/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1002-find-common-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/1002-find-common-characters/) | Easy |
@@ -129,6 +131,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshit-mehra21/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Harshit-mehra21/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0402-remove-k-digits](https://github.com/Harshit-mehra21/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Harshit-mehra21/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshit-mehra21/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -136,6 +139,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshit-mehra21/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0402-remove-k-digits](https://github.com/Harshit-mehra21/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Harshit-mehra21/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshit-mehra21/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
