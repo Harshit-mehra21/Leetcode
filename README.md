@@ -134,6 +134,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0402-remove-k-digits](https://github.com/Harshit-mehra21/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Harshit-mehra21/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Harshit-mehra21/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshit-mehra21/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0402-remove-k-digits](https://github.com/Harshit-mehra21/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Harshit-mehra21/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Harshit-mehra21/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshit-mehra21/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -151,8 +153,13 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Harshit-mehra21/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0901-online-stock-span](https://github.com/Harshit-mehra21/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshit-mehra21/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Harshit-mehra21/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
