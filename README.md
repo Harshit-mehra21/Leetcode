@@ -32,6 +32,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0001-two-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-mehra21/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-mehra21/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Harshit-mehra21/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Harshit-mehra21/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-mehra21/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -112,6 +113,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Harshit-mehra21/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0567-permutation-in-string](https://github.com/Harshit-mehra21/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Harshit-mehra21/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
@@ -167,6 +169,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harshit-mehra21/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Harshit-mehra21/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshit-mehra21/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Harshit-mehra21/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -174,4 +177,8 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harshit-mehra21/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshit-mehra21/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Harshit-mehra21/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
