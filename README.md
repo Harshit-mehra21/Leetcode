@@ -114,6 +114,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Harshit-mehra21/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshit-mehra21/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/Harshit-mehra21/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -170,6 +171,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Harshit-mehra21/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Harshit-mehra21/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Harshit-mehra21/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
