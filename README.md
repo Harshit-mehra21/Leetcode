@@ -15,6 +15,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-mehra21/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0321-create-maximum-number](https://github.com/Harshit-mehra21/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-mehra21/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -51,6 +52,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0321-create-maximum-number](https://github.com/Harshit-mehra21/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/Harshit-mehra21/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Harshit-mehra21/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-mehra21/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -121,6 +123,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0141-linked-list-cycle](https://github.com/Harshit-mehra21/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-mehra21/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshit-mehra21/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0321-create-maximum-number](https://github.com/Harshit-mehra21/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0567-permutation-in-string](https://github.com/Harshit-mehra21/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Harshit-mehra21/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
@@ -141,6 +144,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshit-mehra21/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Harshit-mehra21/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0321-create-maximum-number](https://github.com/Harshit-mehra21/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/Harshit-mehra21/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Harshit-mehra21/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -150,6 +154,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshit-mehra21/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0321-create-maximum-number](https://github.com/Harshit-mehra21/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/Harshit-mehra21/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-mehra21/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Harshit-mehra21/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
