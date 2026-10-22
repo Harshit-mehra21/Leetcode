@@ -129,6 +129,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Harshit-mehra21/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Harshit-mehra21/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Harshit-mehra21/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Quicksort
@@ -166,6 +167,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Harshit-mehra21/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshit-mehra21/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -231,4 +233,8 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Harshit-mehra21/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Harshit-mehra21/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Harshit-mehra21/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
