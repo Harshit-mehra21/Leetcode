@@ -216,6 +216,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0112-path-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit-mehra21/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshit-mehra21/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Harshit-mehra21/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Harshit-mehra21/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -226,6 +227,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0112-path-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit-mehra21/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshit-mehra21/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Harshit-mehra21/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Harshit-mehra21/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -238,6 +240,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0112-path-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit-mehra21/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshit-mehra21/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Harshit-mehra21/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Harshit-mehra21/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -247,6 +250,7 @@ My LeetCode solutions in C++ — covering DSA, algorithms, and problem-solving.
 | [0102-binary-tree-level-order-traversal](https://github.com/Harshit-mehra21/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harshit-mehra21/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Harshit-mehra21/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Harshit-mehra21/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
